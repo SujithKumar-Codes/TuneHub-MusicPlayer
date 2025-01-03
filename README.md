@@ -33,7 +33,7 @@ Open the index.html file in your preferred browser to enjoy the app.
 
 ---
 
-🌟 How to Use
+## 🌟 How to Use
 Select a playlist from the homepage.
 Click on the play button to start the music.
 Use playback controls to pause, skip, or return to the previous song.

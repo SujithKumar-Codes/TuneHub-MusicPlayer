@@ -22,7 +22,7 @@
 ---
 
 ## 🖼️ Screenshots
-![TuneHub Screenshot](path-to-your-screenshot.png)  
+![TuneHub Screenshot](TuneHub - Screenshot.png)  
 *Screenshot of the TuneHub interface.*
 
 ---

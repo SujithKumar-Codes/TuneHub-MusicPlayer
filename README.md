@@ -21,15 +21,19 @@
 
 ---
 
+## 🖼️ Screenshots
+![TuneHub Screenshot](path-to-your-screenshot.png)  
+*Screenshot of the TuneHub interface.*
+
+---
+
 ## 🛠️ Installation and Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/TuneHub.git
-Navigate to the project directory:
-bash
-Copy code
-cd TuneHub
-Open the index.html file in your preferred browser to enjoy the app.
+2. Navigate to the project directory:
+   cd TuneHub
+3. Open the index.html file in your preferred browser to enjoy the app.
 
 ---
 
